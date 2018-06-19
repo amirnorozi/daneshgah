@@ -1,0 +1,84 @@
+.header{
+    height: 100px;
+    width: 1400px;
+    margin: auto;
+    background-color: rgba(21, 121, 151, 0.904);
+}
+.header h1{
+ text-align: center;
+font-size: 31px;
+ color: aquamarine;
+ margin: 0;
+ padding: 27px;
+}
+.container{
+    width: 1200px;
+    height: 1200px;
+    background-color: blue;
+    margin: auto;
+    margin-top: 15px;
+}
+.nav_right{
+    width: 300px;
+    height: 100%;
+    background-color: aqua;
+    float: right;
+    margin-right: 15px;
+}
+.tables{
+    width: 850px;
+    height: 100%;
+    background-color: beige;
+    margin-left: 16px;
+}
+.main_login .container_login{
+   
+        width: 1200px;
+        height: 600px;
+        background-color: red;
+        margin: auto;
+        margin-top: 15px;
+        padding-top: 250px;
+}
+
+#forml{
+    height: 163px;
+    width: 438px;
+    background-color: aliceblue;
+    margin: auto;
+    margin-top: 50px;
+}
+#forml form{
+    padding: 15px;
+    margin: auto;
+    padding-left: 162px;
+}
+#forml form h1{
+    font-size: 16px;
+   
+}
+#forml form #submit{
+    float: left;
+   
+}
+table , th , td{
+    border: 1px solid black;
+   
+    border-collapse:collapse;
+    padding: 10px;
+    margin-left: 279px;
+}
+
+.diccc{
+    padding-top: 68px;
+}
+.nav_right a{
+    float: right;
+    padding-left: 72px;
+    padding-top: 20px;
+    
+}
+#tablee{border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    margin-left: 113px;}
